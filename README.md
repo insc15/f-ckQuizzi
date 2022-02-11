@@ -1,0 +1,2 @@
+# f-ckQuizzi
+simple cheat
